@@ -1,5 +1,4 @@
 # cybersecurity-fundamentals
-cybersecurity-fundamentals
 ## 🎓 Certifications & Achievements
 
 ### 🏅 2025
